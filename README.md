@@ -69,7 +69,7 @@ pip install pandas numpy scikit-learn scikit-surprise matplotlib seaborn
 Open the notebook and run all cells:
 
 ```
-AI_Recommendation_System_Part1.ipynb
+GroupProject_Part1_RecommendationSystem.ipynb
 ```
 
 This will reproduce:
